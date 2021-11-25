@@ -1,0 +1,20 @@
+{
+  "name": "fs-uni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "async-validator": "^4.0.2",
+    "dayjs": "^1.10.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.sxidc.com/front-end/fs-uni-next.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

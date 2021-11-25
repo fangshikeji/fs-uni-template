@@ -1,0 +1,26 @@
+// css 变量
+page {
+	--primary: 				#0063F5;
+	--success: 				#19be6b;
+	--warning: 				#FF9F15;
+	--danger: 				#ff6059;
+	--info: 					#2db7f5;
+	--gray: 					#E8EAF2;
+	--border-color: 	#E8EAF2;
+	--bg-color: 			#f8f8f8;
+	--title: 					#222222;
+	--content: 				#666666;
+	--sub: 						#999999;
+	--disabled: 			#bcbec3;
+	--divider: 				#f8f8f8;
+
+	--gutter: 				20rpx;
+	--tighten-gutter: 20rpx;
+	--gutter-v: 			20rpx;
+
+	--title-size: 		17px;
+	--content-size: 	15px;
+	--sub-size: 			13px;
+
+	--radius: 				12rpx;
+}
